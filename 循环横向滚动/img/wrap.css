@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;}
+.wrapper{width: 100%;min-width: 1205px;height: 220px;overflow: hidden;}
+.wrapper i{display: inline-block;width: 320px;height: 220px;}
+.wrap-1{background: url(../img/i-0.jpg) no-repeat;}
+.wrap-2{background: url(../img/i-1.jpg) no-repeat;}
+.wrap-3{background: url(../img/i-2.jpg) no-repeat;}
+.wrap-4{background: url(../img/i-3.jpg) no-repeat;}
+.wrap-5{background: url(../img/i-4.jpg) no-repeat;}
